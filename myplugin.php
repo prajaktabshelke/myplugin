@@ -8,7 +8,7 @@
     Version: 1.0
 
     */
-//add_action('admin_menu', 'addMenu');
+add_action('admin_menu', 'addMenu');
 //function addMenu()
 //{
 //  add_menu_page("data Options", "data Options", 4, "data-options", "datamenu");
